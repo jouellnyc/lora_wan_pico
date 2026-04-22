@@ -229,6 +229,9 @@ function decodeUplink(input) {
 
 Boost range with: `AT+PARAMETER=12,4,1,7` — both devices must match.
 
+## Acknowledgements
+Developed with assistance from [Claude](https://claude.ai) (Anthropic).
+
 ---
 
 ## Related projects
