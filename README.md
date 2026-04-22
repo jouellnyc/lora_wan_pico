@@ -108,6 +108,8 @@ Incoming message format:
 
 ## RYLR993 — LoRaWAN
 
+<img width="260" height="427" alt="image" src="https://github.com/user-attachments/assets/8d974d3c-40d7-4137-a6fc-d0e236804fec" />
+
 ### What it does
 Full LoRaWAN support. Connects to gateways on The Things Network (TTN), Helium, or any LoRaWAN network server. Data goes from module → gateway → internet → your app.
 
