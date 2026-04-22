@@ -24,6 +24,8 @@ A practical guide based on real-world testing with Raspberry Pi Pico.
 
 ## RYLR998 — Point-to-Point
 
+<img width="191" height="357" alt="image" src="https://github.com/user-attachments/assets/8e2b95f3-d5d2-4ccd-a479-f419e1f844a9" />
+
 ### What it does
 Two modules talk directly to each other over LoRa. No internet, no gateway, no infrastructure. Range up to 5km line of sight.
 
@@ -105,6 +107,8 @@ Incoming message format:
 ---
 
 ## RYLR993 — LoRaWAN
+
+<img width="260" height="427" alt="image" src="https://github.com/user-attachments/assets/8d974d3c-40d7-4137-a6fc-d0e236804fec" />
 
 ### What it does
 Full LoRaWAN support. Connects to gateways on The Things Network (TTN), Helium, or any LoRaWAN network server. Data goes from module → gateway → internet → your app.
