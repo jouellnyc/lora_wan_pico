@@ -134,9 +134,9 @@ import time
 
 uart = UART(0, baudrate=9600, tx=Pin(0), rx=Pin(1))
 
-DEV_EUI  = '70:B3:D5:7E:D0:07:70:03'   # colon format
+DEV_EUI  = 'XX:YY'   # colon format
 JOIN_EUI = '00:00:00:00:00:00:00:00'
-APP_KEY  = '6D:8A:41:5B:73:05:EE:5F:0B:A2:E7:0D:F4:5A:93:EA'
+APP_KEY  = 'XX:YY'
 
 def send_at(cmd, delay=0.5):
     uart.write((cmd + '\r\n').encode())
