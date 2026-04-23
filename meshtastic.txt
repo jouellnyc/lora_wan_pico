@@ -1,0 +1,4 @@
+
+pip install meshtastic --break-system-packages
+pip install pypubsub --break-system-packages
+ls /dev/tty* | grep -E "USB|ACM"
